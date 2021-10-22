@@ -28,3 +28,8 @@ Giving users a fast and easy way to track their money is important, but allowing
   * the deployed application URL:
 
   * the Github repository URL:https://github.com/oliversh99/Online-Offline-Progressive-Budget-Trackers
+
+  
+## Questions
+If you have any questions about the repo, open an issue or contact me directly at olivcode999@gmail.com. You can find more of my work at https://github.com/oliversh99
+Contact me 
