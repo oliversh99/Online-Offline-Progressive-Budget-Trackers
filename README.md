@@ -25,7 +25,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## links
 
-  * the deployed application URL:
+  * the deployed application Heroku URL:https://radiant-woodland-95582.herokuapp.com/
 
   * the Github repository URL:https://github.com/oliversh99/Online-Offline-Progressive-Budget-Trackers
 
